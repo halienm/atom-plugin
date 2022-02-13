@@ -25,7 +25,7 @@
     "ignore": "^5.1.4",
     "lodash": "^4.17.15",
     "open": "^7.0.0",
-    "queue": "^6.0.1",
+    "queue": "^6.0.2",
     "request": "^2.88.0",
     "request-promise": "^4.2.5"
   },
